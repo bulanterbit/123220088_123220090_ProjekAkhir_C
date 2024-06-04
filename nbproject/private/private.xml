@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/frame/Login.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/frame/barangframe.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/model/TabelDetailPembelianModel.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/model/modeltabeldatabarang.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/DAOtoserba/databarangDAO.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/frame/PembelianFrame.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/frame/mainv.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/controller/databarangcontroller.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/model/modeltabeldatapembelian.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/controller/pembeliantempcontroller.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/DAOtoserba/pembeliantempDAO.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/DAO/DetailPembelianDAO.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/DAO/PembelianDAO.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/frame/Projekakhir.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/controller/DetailPembelianController.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/koneksi/connector.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/DAOImpelments/PembelianImplement.java</file>
+            <file>file:/C:/Users/Jaconiah/Desktop/projekakhir/src/model/PembelianTemp.java</file>
+        </group>
+    </open-files>
+</project-private>
